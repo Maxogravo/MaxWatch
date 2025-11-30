@@ -1,5 +1,6 @@
 # MaxWatch
 A smartwatch I made with ESP32
+Link to ESP32 module used: https://www.waveshare.com/esp32-s3-touch-lcd-1.28.htm
 
 # Functions:
 - Tells the time
