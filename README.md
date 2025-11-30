@@ -3,6 +3,8 @@ A smartwatch I made with ESP32
 
 Link to ESP32 module used: https://www.waveshare.com/esp32-s3-touch-lcd-1.28.htm
 
+Link to Library needed: https://drive.google.com/drive/folders/10pHr2bMSwsCJLyjymGtic4dDfUvBiQ85?usp=share_link
+
 # Functions:
 - Tells the time
 - Connects to wifi
