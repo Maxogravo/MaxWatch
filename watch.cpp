@@ -4,8 +4,8 @@
 
 TFT_eSPI tft = TFT_eSPI();
 
-const char* ssid = "19 Lightfoot St";
-const char* password = "lightfoot";
+const char* ssid = "Enter SSID";
+const char* password = "Enter Password";
 
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset_sec = 0;
